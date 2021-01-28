@@ -12,6 +12,15 @@ namespace Inheritance_Lunch_Buddies
             LastName = lastName;
 
         }
+
+        public string Eat()
+        {
+            var restaurant = new Restaurant();
+            var randomRestaurant = restaurant.Name;
+            Console.WriteLine($"{FirstName} {LastName} is at {randomRestaurant}");
+            return randomRestaurant;
+            
+        }
     }
     class Restaurant
     {
@@ -20,14 +29,14 @@ namespace Inheritance_Lunch_Buddies
 
         public Restaurant()
         {
-            Name = this.RandomRestaurantGenerator(_restaurantNames); 
+            Name = this.RandomRestaurantGenerator(); 
         }
 
-        public string RandomRestaurantGenerator(List<string> listOfRestaurants)
+        public string RandomRestaurantGenerator()
         {
             var random = new Random();
-            int index = random.Next(listOfRestaurants.Count);
-            return listOfRestaurants[index];
+            int index = random.Next(_restaurantNames.Count);
+            return _restaurantNames[index];
         }
     }
     class Program
@@ -36,6 +45,9 @@ namespace Inheritance_Lunch_Buddies
         {
             var restaurant1 = new Restaurant();
             Console.WriteLine($"Tonight we are eating at {restaurant1.Name}");
+
+            var myBuddy = new LunchBuddy("Chase", "Moss");
+            myBuddy.Eat();
         }
     }
 }
