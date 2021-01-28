@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\bin\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.exe
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\bin\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.deps.json
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\bin\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\bin\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\bin\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.dll
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\bin\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.pdb
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\obj\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\obj\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\obj\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\obj\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\obj\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.dll
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\obj\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.pdb
+C:\Users\cloja\source\repos\Back-End\Inheritance-Lunch-Buddies\Inheritance-Lunch-Buddies\obj\Debug\netcoreapp3.1\Inheritance-Lunch-Buddies.genruntimeconfig.cache

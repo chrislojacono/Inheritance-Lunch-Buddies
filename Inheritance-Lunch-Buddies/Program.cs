@@ -34,7 +34,8 @@ namespace Inheritance_Lunch_Buddies
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var restaurant1 = new Restaurant();
+            Console.WriteLine($"Tonight we are eating at {restaurant1.Name}");
         }
     }
 }
